@@ -1,3 +1,0 @@
-﻿  mylip1.h.cpp
-MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
-C:\Users\1\Desktop\project\main.cpp2\mylip1.h\x64\Debug\mylip1.h.exe : fatal error LNK1120: 1 unresolved externals
