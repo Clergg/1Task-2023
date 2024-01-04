@@ -1,0 +1,5 @@
+Alice Johnson 8 9 10 6 10 9 -1
+Bob Smith 7 10 8 5 4 6 -1
+Charlie Brown 9 8 7 6 10 8 -1
+Diana Williams 6 9 10 8 7 8 -1
+Edward Davis 10 10 9 8 10 10 -1
